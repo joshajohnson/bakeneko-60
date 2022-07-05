@@ -4570,9 +4570,6 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497460"
       (reference "D13") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49744e"
-      (reference "D14") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49743b"
       (reference "D15") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -4708,9 +4705,6 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497136"
       (reference "D59") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497115"
-      (reference "D60") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497103"
       (reference "D61") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -4756,6 +4750,18 @@
     (path "/595f21b3-d377-4c05-a058-e5f29d3ae54f"
       (reference "D75") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/16f27886-6d3a-4128-b9f1-050f7e583a4a"
+      (reference "H1") (unit 1) (value "2U Stab") (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/946a3f3e-6818-4e09-8b2e-15f5c09dc189"
+      (reference "H2") (unit 1) (value "2.25U Stab") (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/6bc6780a-9783-41c1-8819-3907ffc6edb8"
+      (reference "H3") (unit 1) (value "2.25U Stab") (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/b62e5adc-f341-45e0-8f36-a7e5880fea3d"
+      (reference "H4") (unit 1) (value "7U Stab") (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_7.00u")
+    )
     (path "/00000000-0000-0000-0000-00005f252816"
       (reference "J1") (unit 1) (value "JST SH 4-pin") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
@@ -4763,223 +4769,190 @@
       (reference "J2") (unit 1) (value "AVR-ISP-6") (footprint "bakeneko:ISP")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497539"
-      (reference "MX1") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX1") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497526"
-      (reference "MX2") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX2") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497514"
-      (reference "MX3") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX3") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497502"
-      (reference "MX4") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX4") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49707d"
-      (reference "MX5") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX5") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4974e7"
-      (reference "MX6") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX6") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4974d5"
-      (reference "MX7") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX7") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4974c3"
-      (reference "MX8") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX8") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4974b1"
-      (reference "MX9") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX9") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49749f"
-      (reference "MX10") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX10") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49748d"
-      (reference "MX11") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX11") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49747b"
-      (reference "MX12") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX12") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497469"
-      (reference "MX13") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497457"
-      (reference "MX14") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497445"
-      (reference "MX15") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX13") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970b1"
-      (reference "MX16") (unit 1) (value "2u") (footprint "MX_Only:MXOnly-2U-NoLED")
+      (reference "MX16") (unit 1) (value "2u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497077"
-      (reference "MX17") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX17") (unit 1) (value "1.5u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497418"
-      (reference "MX18") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX18") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497407"
-      (reference "MX19") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX19") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4973f6"
-      (reference "MX20") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX20") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4973e5"
-      (reference "MX21") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX21") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4973d3"
-      (reference "MX22") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX22") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4973c2"
-      (reference "MX23") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX23") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4973b1"
-      (reference "MX24") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX24") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4973a0"
-      (reference "MX25") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX25") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49738f"
-      (reference "MX26") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX26") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49737e"
-      (reference "MX27") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX27") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49736d"
-      (reference "MX28") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX28") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49735c"
-      (reference "MX29") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX29") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49734b"
-      (reference "MX30") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX30") (unit 1) (value "1.5u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970ab"
-      (reference "MX31") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+      (reference "MX31") (unit 1) (value "1.25u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970c6"
-      (reference "MX32") (unit 1) (value "1.75u") (footprint "MX_Only:MXOnly-1.75U-NoLED")
+      (reference "MX32") (unit 1) (value "1.75u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497320"
-      (reference "MX33") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX33") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49730f"
-      (reference "MX34") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX34") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4972fe"
-      (reference "MX35") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX35") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4972ed"
-      (reference "MX36") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX36") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4972dc"
-      (reference "MX37") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX37") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4972cb"
-      (reference "MX38") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX38") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4972ba"
-      (reference "MX39") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX39") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4972a9"
-      (reference "MX40") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX40") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497298"
-      (reference "MX41") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX41") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497287"
-      (reference "MX42") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX42") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497276"
-      (reference "MX43") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX43") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497265"
-      (reference "MX44") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-NoLED")
+      (reference "MX44") (unit 1) (value "2.25u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970cf"
-      (reference "MX45") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-NoLED")
+      (reference "MX45") (unit 1) (value "2.25u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49723b"
-      (reference "MX46") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX46") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49722a"
-      (reference "MX47") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX47") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49721b"
-      (reference "MX48") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX48") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49720c"
-      (reference "MX49") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX49") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971fd"
-      (reference "MX50") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX50") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971ec"
-      (reference "MX51") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX51") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971dd"
-      (reference "MX52") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX52") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971ce"
-      (reference "MX53") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX53") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971bd"
-      (reference "MX54") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX54") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4971ac"
-      (reference "MX55") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX55") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49719b"
-      (reference "MX56") (unit 1) (value "1.75u") (footprint "MX_Only:MXOnly-1.75U-NoLED")
+      (reference "MX56") (unit 1) (value "1.75u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49718a"
-      (reference "MX57") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f428b3f"
-      (reference "MX58") (unit 1) (value "2.75u") (footprint "MX_Only:MXOnly-2.75U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49716a"
-      (reference "MX59") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49715a"
-      (reference "MX60") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49714b"
-      (reference "MX61") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49713c"
-      (reference "MX62") (unit 1) (value "6.25u") (footprint "MX_Only:MXOnly-6.25U-ReversedStabilizers-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49711b"
-      (reference "MX63") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49710c"
-      (reference "MX64") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970fa"
-      (reference "MX65") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970eb"
-      (reference "MX66") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+      (reference "MX57") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48b5b5"
-      (reference "MX67") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX67") (unit 1) (value "1.5u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48d3c5"
-      (reference "MX68") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX68") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48e6e4"
-      (reference "MX69") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX69") (unit 1) (value "1.5u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f47830f"
-      (reference "MX70") (unit 1) (value "7u") (footprint "MX_Only:MXOnly-7U-ReversedStabilizers-NoLED")
+      (reference "MX70") (unit 1) (value "7u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_7.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970b7"
-      (reference "MX71") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX71") (unit 1) (value "1.5u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f453977"
-      (reference "MX72") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX72") (unit 1) (value "1u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4551d0"
-      (reference "MX73") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+      (reference "MX73") (unit 1) (value "1.5u") (footprint "Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/00000000-0000-0000-0000-00005f258c77"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
