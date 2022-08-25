@@ -1,0 +1,8 @@
+Qty,Reference(s),Value,Footprint,LCSC Part No,Manufacturer,Manufacturer Part No
+1,D1,SMF9.0CA,acheron_Components:D_SOD-123_Bidirectional,C123799,Microdiode Electronics,SMF9.0CA
+1,F1,ASMD1206-150,Fuse:Fuse_1206_3216Metric,C135342,Shenzhen JDT Fuse,ASMD1206-150
+1,J1,TYPE-C-31-M12_13,acheron_Connectors:TYPE-C-31-M-12,C165948,Korean Hroparts,TYPE-C-31-M-12
+1,J2,SM04B-SRSS-TB(LF)(SN),random-keyboard-parts:JST-SR-4,C160404,JST Sales America,SM04B-SRSS-TB(LF)(SN)
+1,L1,60R@100MHz,Inductor_SMD:L_1206_3216Metric,C33600,MELED Industrial,MLB3216-600P4A(f)
+2,"R1, R2",5.1k,Resistors_SMD:R_0603,C23186,UNI-ROYAL,0603WAF5101T5E
+1,U1,TPD4E05U06DQAR,acheron_Components:USON-10_2.5x1.0mm_P0.5mm,C138714,Texas Instruments,TPD4E05U06DQAR
