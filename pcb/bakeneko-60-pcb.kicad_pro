@@ -432,7 +432,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../home/josh/",
       "specctra_dsn": "",
       "step": "../../../../../home/josh/Downloads/bakeneko-60-pcb.step",
       "vrml": ""
