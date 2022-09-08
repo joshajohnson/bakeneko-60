@@ -2931,6 +2931,9 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497265"
       (reference "MX44") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-NoLED")
     )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/79881536-94f0-4383-a19e-8313eabe1e5f"
+      (reference "MX45") (unit 1) (value "2u") (footprint "MX_Only:MXOnly-2U-NoLED")
+    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49723b"
       (reference "MX46") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
@@ -2967,14 +2970,14 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49718a"
       (reference "MX57") (unit 1) (value "1u") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/8ee1e4df-9750-4ce0-976b-f8eca0b58258"
+      (reference "MX58") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-NoLED")
+    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49716a"
       (reference "MX59") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49715a"
       (reference "MX60") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49714b"
-      (reference "MX61") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49711b"
       (reference "MX63") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
