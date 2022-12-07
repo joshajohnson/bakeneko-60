@@ -1896,8 +1896,8 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f252816)
     (property "Reference" "J1" (id 0) (at 36.195 88.265 0))
-    (property "Value" "SM04B-SRSS-TB(LF)(SN)" (id 1) (at 36.195 85.725 0))
-    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 45.085 85.725 0)
+    (property "Value" "EZmate" (id 1) (at 36.195 85.725 0))
+    (property "Footprint" "josh-connectors:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical" (id 2) (at 45.085 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 45.085 85.725 0)
@@ -2794,7 +2794,7 @@
       (reference "D64") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005f252816"
-      (reference "J1") (unit 1) (value "SM04B-SRSS-TB(LF)(SN)") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "EZmate") (footprint "josh-connectors:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005f4c9cce"
       (reference "J2") (unit 1) (value "AVR-ISP-6") (footprint "bakeneko:ISP")

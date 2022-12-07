@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "3d_shapes")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty/3d_shapes")(options "")(descr ""))
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "josh-connectors")(type "KiCad")(uri "${KIPRJMOD}/../josh-kicad-lib/josh-connectors.pretty")(options "")(descr ""))
 )
