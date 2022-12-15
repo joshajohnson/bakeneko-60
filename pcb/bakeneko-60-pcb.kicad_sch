@@ -3012,6 +3012,12 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4551d0"
       (reference "MX73") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/b7f0aa65-3678-4a01-b21b-1f8d8d4efde9"
+      (reference "MX201") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
+    )
+    (path "/00000000-0000-0000-0000-00005f45b9b8/88131273-8659-4334-990a-2e117356ddde"
+      (reference "MX202") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
+    )
     (path "/00000000-0000-0000-0000-00005f258c77"
       (reference "R1") (unit 1) (value "22R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
