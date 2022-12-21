@@ -2778,9 +2778,6 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497136"
       (reference "D59") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497115"
-      (reference "D60") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f497103"
       (reference "D61") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
     )
@@ -2973,24 +2970,6 @@
     (path "/00000000-0000-0000-0000-00005f45b9b8/8ee1e4df-9750-4ce0-976b-f8eca0b58258"
       (reference "MX58") (unit 1) (value "2.25u") (footprint "MX_Only:MXOnly-2.25U-NoLED")
     )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49716a"
-      (reference "MX59") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49715a"
-      (reference "MX60") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49711b"
-      (reference "MX63") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f49710c"
-      (reference "MX64") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970fa"
-      (reference "MX65") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4970eb"
-      (reference "MX66") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
-    )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f48b5b5"
       (reference "MX67") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
@@ -3011,9 +2990,6 @@
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/00000000-0000-0000-0000-00005f4551d0"
       (reference "MX73") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
-    )
-    (path "/00000000-0000-0000-0000-00005f45b9b8/b7f0aa65-3678-4a01-b21b-1f8d8d4efde9"
-      (reference "MX201") (unit 1) (value "1.5u") (footprint "MX_Only:MXOnly-1.5U-NoLED")
     )
     (path "/00000000-0000-0000-0000-00005f45b9b8/88131273-8659-4334-990a-2e117356ddde"
       (reference "MX202") (unit 1) (value "1.25u") (footprint "MX_Only:MXOnly-1.25U-NoLED")
